@@ -1,0 +1,13 @@
+export const CREATE_FOLDERORFOLDER = 'CREATE_FOLDERORFOLDER';
+export const DELETE_FOLDERORFILE = 'DELETE_FOLDERORFILE';
+export const TOOGLE_FILE_OR_FOLDER = 'TOOGLE_FILE_OR_FOLDER';
+export const OPEN_MODAL = 'OPEN_MODAL';
+export const OPEN_INFO_MODAL = 'OPEN_INFO_MODAL';
+export const CLOSE_MODAL = 'CLOSE_MODAL';
+export const OPEN_SUBMENU = 'OPEN_SUBMENU';
+export const CLOSE_SUBMENU = 'CLOSE_SUBMENU';
+export const GET_PATH = 'GET_PATH';
+export const GET_NAV_PATH = 'GET_NAV_PATH';
+export const SET_PATH = 'SET_PATH';
+export const OPEN_FOLDER = 'OPEN_FOLDER';
+export const GET_INFO = 'GET_INFO';

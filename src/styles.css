@@ -1,0 +1,56 @@
+.App {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+/* .row {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 4px;
+}
+
+.column {
+	flex: 25%;
+	max-width: 25%;
+	padding: 0 4px;
+}
+
+.column img {
+	margin-top: 8px;
+	vertical-align: middle;
+	width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+	.column {
+		flex: 50%;
+		max-width: 50%;
+	}
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+/* @media screen and (max-width: 600px) {
+	.column {
+		flex: 100%;
+		max-width: 100%;
+	} */
+.addBtn {
+	width: 50%;
+	font-size: 2rem;
+	padding: 14%;
+	border: 5px dotted gray;
+	border-radius: 7%;
+	cursor: pointer;
+}
+
+.file {
+	font-size: 3rem;
+	padding: 11%;
+	cursor: pointer;
+}
+
+.folder {
+	font-size: 3rem;
+	padding: 8%;
+	cursor: pointer;
+}
